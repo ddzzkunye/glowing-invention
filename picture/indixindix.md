@@ -4,3 +4,5 @@ The start of the folder.
 <div style="max-width:45em"><img src="./技术栈c919.jpeg"/></div>
 
 <img src="./集成电路项目下马.jpg" style="width:45em"/>
+
+<img src="./4 你是人民吗.jpg" style="width:45em"/>
